@@ -1,0 +1,25 @@
+{
+ "content": null,
+ "creation": "2022-11-02 19:33:49.460347",
+ "docstatus": 0,
+ "doctype": "Page",
+ "icon": "fa fa-file-import",
+ "idx": 0,
+ "modified": "2022-11-02 20:00:55.120622",
+ "modified_by": "Administrator",
+ "module": "Sage50US",
+ "name": "sage-50-importer",
+ "owner": "Administrator",
+ "page_name": "Sage 50 Importer",
+ "restrict_to_domain": "",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Sage 50 Importer"
+}
